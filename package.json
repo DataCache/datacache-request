@@ -1,0 +1,28 @@
+{
+  "name": "datacache-request",
+  "version": "1.2.0",
+  "description": "Module provides indexing and access to datacache service functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataCache/datacache.git"
+  },
+  "keywords": [
+    "Data",
+    "Cache",
+    "Hosted",
+    "functions"
+  ],
+  "author": "DataCache <support@datacache.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DataCache/datacache/issues"
+  },
+  "homepage": "https://github.com/DataCache/datacache#readme",
+  "dependencies": {
+    "unirest": "^0.5.1"
+  }
+}
